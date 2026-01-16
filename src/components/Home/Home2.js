@@ -13,38 +13,44 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a full-stack developer who enjoys building real-world products
+              from scratch and turning ideas into functional, scalable
+              applications. I’m especially interested in creating systems that
+              combine clean UI, solid backend logic, and practical
+              problem-solving.
               <br />
-              <br />
-              I’m proficient in
+              <br />I work mainly with
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, React.js, Node.js, Express.js, and MongoDB{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              and I’m comfortable handling both frontend and backend
+              development.
               <br />
               <br />
-              My key areas of interest include developing
+              My interests include building
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  full-stack web applications, AI-powered tools,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              and experimenting with
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple"> blockchain and Web3 technologies </b>
               </i>
+              through hands-on projects and hackathons.
+              <br />
+              <br />I enjoy working with
+              <b className="purple"> React </b>
+              and modern frameworks like{" "}
+              <i>
+                <b className="purple">Next.js </b>
+              </i>
+              and I’m also exploring desktop application development using{" "}
+              <b className="purple"> Electron.js </b>.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
